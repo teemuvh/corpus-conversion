@@ -1,6 +1,7 @@
 # XML-VRT conversion script
 
-Convert.py script converts xml-files acquired from FieldWorks Language Explorer into vrt-file format for inputting into Korp concordance search tool.
+Convert.py converts the text corpora of four Mara Bantu languages acquired from FieldWorks Language Explorer
+into the vrt-file format for importing into the Korp concordance search tool.
 
 When exporting interlinear from FieldWorks Language Explorer, choose Verifiable generic XML. Make sure you have
 only selected the text you want to export, as FLEX merges multiple texts into one file which may break the script and
